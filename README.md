@@ -15,7 +15,7 @@ Queda adjuntado un achivo: "requirements.txt" donde se encuentran las librerías
 - ml_results.py: los modelos de machine learning que usaremos
 - vocabulary_evaluation.py: evaluación de los modelos de machine learning para diferentes tamaños de vocabulario
 - cross_validation.py: evaluación de los resultados mediante cross validation.
-- tfidf_evaluatio.py: evaluación del modelo de TF/IDF.
+- tfidf_evaluation.py: evaluación del modelo de TF/IDF.
 - prediction.py: generación del resultado mediante TF/IDF.
 
 # Author profiling / EN
@@ -35,7 +35,7 @@ You can find a "requirements.txt" file with all dependencies.
 - ml_results.py: all machine learning models we use
 - vocabulary_evaluation.py: evaluation of our machine learning models using different vocabularies
 - cross_validation.py: evaluation using cross validation.
-- tfidf_evaluatio.py: evaluation of TF/IDF model.
+- tfidf_evaluation.py: evaluation of TF/IDF model.
 - prediction.py: generation of results with TF/IDF.
 
 
